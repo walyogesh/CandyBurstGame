@@ -1,0 +1,1 @@
+// cmake requires a cpp file to accept this as a libray
